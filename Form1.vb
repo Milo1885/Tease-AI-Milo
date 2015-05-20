@@ -13,7 +13,13 @@ Imports System.Speech.Synthesis
 Imports System.Speech.AudioFormat
 
 
-
+'kinkyswan is adding this comment here as a way to test pull requests on GitHub. This is what I've done:
+'  1) I created a GitHub account
+'  2) I forked the original Milo1885/Tease-AI-Milo to Milo-kinkyswan/Tease-AI-Milo
+'  3) I installed GitHub for Windows
+'  4) In GitHub for Windows, I cloned Milo-kinkyswan/Tease-AI-Milo
+'  5) I'm now editing this file, Form1.vb
+'  6) Next I'm going to try a Pull Request. We'll find out if 1885 receives the changed file, Form1.vb
 
 
 
